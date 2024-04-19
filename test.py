@@ -2,7 +2,7 @@ import smtplib
 
 email_address='pythontester2900@gmail.com'
 email_smtp='smtp.gmail.com'
-email_app_password = 'dswtpoaxmtzvflyh'
+email_app_password = ''
 
 
 with smtplib.SMTP(email_smtp) as connection:
